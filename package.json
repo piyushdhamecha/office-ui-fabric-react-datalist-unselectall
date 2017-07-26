@@ -1,0 +1,19 @@
+{
+  "name": "3lv0a4wpr",
+  "description": null,
+  "version": "0.0.0",
+  "dependencies": {
+    "react-dom": "15.5.3",
+    "react": "15.5.3",
+    "office-ui-fabric-react": "4.23.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
